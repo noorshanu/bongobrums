@@ -4,7 +4,7 @@
     <img src="https://bongo.cat/meta/thumbnail.png">
   </a>  
 </p>
-Hit the bongos like Bongo Cat! https://www.bongocatcoin.xyz/ its fork with my own creation
+Hit the bongos like Bongo Cat! https://bongobrums.vercel.app/ its fork with my own creation
 
 
 

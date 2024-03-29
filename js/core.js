@@ -202,7 +202,7 @@ $.play = function(instrument, key, state) {
     } else {
       pressed.remove(commonKey);
     }
-    $(id).css("background-position-x", (state ? "-800px" : "0"));
+    $(id).css("background-position-y", (state ? "50px" : "0"));
   }
 }
 $.layers = function(selectedLayer) {

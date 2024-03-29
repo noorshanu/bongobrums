@@ -332,8 +332,8 @@ var i18n_map = {
     "en": "Meme by "+link_DitzyFlama,
     "ca": "Meme de "+link_DitzyFlama},
   "website": {
-    "en": "All rights reserved | by DogeTune 2024 "+link_EricHuber,
-    "ca": "Lloc web d&#39"+link_EricHuber},
+    "en": "All rights reserved | by DogeTune 2024 ",
+    "ca": "Lloc web d&#39"},
   "cookies": {
     "en": "This website uses cookies to analyze traffic via anonymized and aggregated data.",
     "ca": "Aquest lloc web utilitza galetes per analitzar el trànsit mitjançant dades agregades i anonimitzades."}

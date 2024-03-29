@@ -287,8 +287,8 @@ var link_DitzyFlama = "<a href=\"https://twitter.com/DitzyFlama\" target=\"_blan
 var link_EricHuber = "<a href=\"https://eric.gg/?utm_source=bongo.cat\" target=\"_blank\">Eric Huber</a>";
 var i18n_map = {
   "Bongos": {
-    "en": "Bongos",
-    "ca": "Bongos"},
+    "en": "Doge Tune",
+    "ca": "Doge Tune"},
   "Cymbal": {
     "en": "Cymbal",
     "ca": "Plat"},
@@ -299,7 +299,7 @@ var i18n_map = {
     "en": "Tambourine",
     "ca": "Pandereta"},
   "Meow": {
-    "en": "Meow",
+    "en": "Doge Woff",
     "ca": "Miol"},
   "SPACE": {
     "en": "SPACE",
@@ -332,7 +332,7 @@ var i18n_map = {
     "en": "Meme by "+link_DitzyFlama,
     "ca": "Meme de "+link_DitzyFlama},
   "website": {
-    "en": "All rights reserved | by BonggoCatToken 2023 "+link_EricHuber,
+    "en": "All rights reserved | by DogeTune 2024 "+link_EricHuber,
     "ca": "Lloc web d&#39"+link_EricHuber},
   "cookies": {
     "en": "This website uses cookies to analyze traffic via anonymized and aggregated data.",
